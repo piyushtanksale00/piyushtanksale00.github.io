@@ -49,6 +49,28 @@ The military's battlefield is not only physical anymore. The internet of things 
 
 In this digital age, every soldier is also a sensor, gathering important data about their environment (e.g., the temperature at which their body operates best). This data may in turn be used to help develop more efficient equipment or even new weapons systems that will benefit both soldiers and civilians.
 
+## Future of IoT
+As the technological trends and advancements in AI and ML have continued to produce their desired effects, the future of IoT has become more promising. In fact, it can be agreed that these technologies will be playing an increasingly important role as we move forward into the next decade. With that made clear, it is important to understand what factors shape this future of IoT and how these technologies will impact various aspects of our lives.
+
+There are many AIoT Devices that we use on daily basis for example Smart Watches, Earpodes, Fitness tracker,etc these devices are becoming closer to us day by day for easing our tasks. With upcoming and current technologies like 5G, Cloud and Big Data the impace of these devices on our lives would be so easy. And Combining these all to make AIoT things to analyze our usecase will help us in many ways. 
+
+IoT devices use the internet to communicate, collect, and exchange information about our online activities. Every day, they generate 1 billion GB of data.
+
+By 2025, there’s projected to be 42 billion IoT-connected devices globally. It’s only natural that as these device numbers grow, the swaths of data will too. That’s where AI steps in—lending its learning capabilities to the connectivity of the IoT.
+
+The IoT is empowered by three key emerging technologies:
+
+1) Artificial Intelligence (AI)
+Programmable functions and systems that enable devices to learn, reason, and process information like humans.
+
+2) 5G Networks
+Fifth generation mobile networks with high-speed, near-zero lag for real time data processing.
+
+3) Big Data
+Enormous volumes of data processed from numerous internet-connected sources.
+
+
+
 
 
 
