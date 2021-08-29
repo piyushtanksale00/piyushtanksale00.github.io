@@ -69,6 +69,10 @@ Fifth generation mobile networks with high-speed, near-zero lag for real time da
 3) Big Data
 Enormous volumes of data processed from numerous internet-connected sources.
 
+## Summing Up
+Artificial Intelligence and Internet of Things are changing the way we live. They have innumerable applications and benefits in different industries. The benefits are so immense that it is hard to list them all.
+
+IoT is the new frontier of technology which can be applied to any and every industry, which means Artificial Intelligence finds a lot of application opportunities there. The cloud computing enables remote work on IoT projects. Cloud Computing provides the central storage for data collected from a multitude of devices, enabling AIoT to process huge volumes of data in real-time for actionable insights.
 
 
 
