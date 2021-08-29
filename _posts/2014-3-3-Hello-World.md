@@ -16,6 +16,7 @@ The IoT Devices was conceptualized way before then we think. A Coca-Cola vending
 
 The term IoT or Internet of Things was minted by Kevin Ashton of Procter & Gamble or lately cassed as MIT's Auto-ID Center, in 1999. He prefers the phrase "Internet for Things". At that time, he viewed Radio-Frequency identification(RFID) as essential for IoT. Which would allow computer to manage all indivisual devices. 
 
+Defining the Internet of Things as "simply the point in time when more 'things or objects' were connected to internet than people", Cisco Systems estimates that IoT was born between 2008 and 2009, with the things/people ratio growing from 0.08 in 2003 to 1.84 in 2010.
 
 
  
