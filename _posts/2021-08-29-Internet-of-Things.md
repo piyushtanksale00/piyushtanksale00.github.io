@@ -28,6 +28,9 @@ Defining the Internet of Things as "simply the point in time when more 'things o
 
 IoT devices are a part of the larger concept of home automation, which can include lighting, heating and air conditioning, media and security systems and camera systems. Long-term benefits could include energy savings by automatically ensuring lights and electronics are turned off or by making the residents in the home aware of usage. They might also help homeowners save money on their utility bills because there is no need to keep track electronically if they have disabled an appliance such as your thermostat. Such smart gadgets offer new possibilities for those who would like more control over household appliances than traditional methods currently available. The internet has helped people develop increasingly sophisticated ways around using them too. Today's connected products do not just appear at any time all day every morning when you turn off one thing but set another up instantly without knowing it. Many older techs find that even after finding out how things work so well today, once learning about these technology changes beyond what was originally planned.
 
+![IOT.jpg]({{site.baseurl}}/_posts/IOT.jpg)
+
+
 A smart home or automated home could be based on a platform or hubs that control smart devices and appliances. For instance, using Apple's HomeKit, manufacturers can have their home products and accessories controlled by an application in iOS devices such as the iPhone and the Apple Watch. This could be a dedicated app or iOS native applications such as Siri. Such automation is not limited to just remote access.
 
 ### Health Systems
