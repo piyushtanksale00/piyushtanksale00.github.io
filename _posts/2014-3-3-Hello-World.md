@@ -9,3 +9,14 @@ We listen to this term more often than anything do. So IoT stands for the intern
 Thus making it possible to connect non-human things to humans, using the same network technology which sends the packets allowing the user to share information on devices connected to it. 
 
 Now lets take a look at a brief history and future of Internet of Things. 
+
+## History of IoT Devices.
+
+The IoT Devices was conceptualized way before then we think. A Coca-Cola vending machine was modified in "Carnegie Mellon University" in the year 1982 thus making it the first "ARPANET" connected appliance. In the year 1991 Mark Weiser wrote a paper on ubiquitous computing naming, "The Computer of 21st Century". In the Year 1994, Reza Raji described the concept in IEEE Spectrum as"moving small packets of data to a large set of nodes to integrate and automate everything from home devices to entire industries". Many Companies proposed solutions like Microsoft's at Work or Novell's NEST. This IoT Field gained momentum when Bill Joy thought of Device to Device communication as part of his "Six Webs" framework, presented at WEF at Davos in 1999.
+
+The term IoT or Internet of Things was minted by Kevin Ashton of Procter & Gamble or lately cassed as MIT's Auto-ID Center, in 1999. He prefers the phrase "Internet for Things". At that time, he viewed Radio-Frequency identification(RFID) as essential for IoT. Which would allow computer to manage all indivisual devices. 
+
+
+
+ 
+ 
