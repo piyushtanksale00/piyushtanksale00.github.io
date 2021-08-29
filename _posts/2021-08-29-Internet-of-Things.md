@@ -6,7 +6,7 @@ We listen to this term more often than anything do. So IoT stands for the intern
 
 Thus making it possible to connect non-human things to humans, using the same network technology which sends the packets allowing the user to share information on devices connected to it. 
 
-![1_3N-I4qICwckVaLb9OWS7Cg.png]({{site.baseurl}}/posts/1_3N-I4qICwckVaLb9OWS7Cg.png)
+![1_3N-I4qICwckVaLb9OWS7Cg.png]({{site.baseurl}}/images/O.png)
 
 Now lets take a look at a brief history and future of Internet of Things. 
 
@@ -15,7 +15,7 @@ Now lets take a look at a brief history and future of Internet of Things.
 
 The IoT Devices was conceptualized way before then we think. A Coca-Cola vending machine was modified in "Carnegie Mellon University" in the year 1982 thus making it the first "ARPANET" connected appliance. In the year 1991 Mark Weiser wrote a paper on ubiquitous computing naming, "The Computer of 21st Century". In the Year 1994, Reza Raji described the concept in IEEE Spectrum as “moving small packets of data to a large set of nodes to integrate and automate everything from home devices to entire industries". Many Companies proposed solutions like Microsoft's at Work or Novell's NEST. This IoT Field gained momentum when Bill Joy thought of Device-to-Device communication as part of his "Six Webs" framework, presented at WEF at Davos in 1999.
 
-![First IoT Device 1982]({{site.baseurl}}/posts/internet-coke-machine-e1412283088169.png)					
+![First IoT Device 1982]({{site.baseurl}}/images/Coke.png)					
 
 
 The term IoT or Internet of Things was minted by Kevin Ashton of Procter & Gamble or lately called as MIT's Auto-ID Centre, in 1999. He prefers the phrase "Internet for Things". At that time, he viewed Radio-Frequency identification (RFID) as essential for IoT. Which would allow computer to manage all individual devices. 
@@ -36,6 +36,8 @@ A smart home or automated home could be based on a platform or hubs that control
 ### Health Systems
 Medical and healthcare The Internet of Medical Things (IoMT) is an application of the IoT for medical and health-related purposes, data collection and analysis for research, and monitoring. The IoMT has been referenced as "Smart Healthcare" by many members in our community to explore how much we can learn from it so that smart devices become more interoperable, smarter and safer because they will be able communicate with each other - like a single source when there are too few nodes or not enough providers between them. 
 
+![health.png]({{site.baseurl}}/images/health.png)
+
 'Our shared intelligence was often extremely precise' says Dr Christopher Muddes who created the original WiHealth project at Stanford University which uses open access software called OpenSparket technology on all its networks together to gather massive amounts's information about what people eat, drink etc
 
 A 2015 Goldman Sachs report indicated that healthcare IoT devices "can save the United States more than $300 billion in annual healthcare expenditures by increasing revenue and decreasing cost."Advances in plastic and fabric electronics fabrication methods have enabled ultra-low cost, use and-throw IoMT sensors. These sensors, along with the required RFID electronics, can be fabricated on paper or e-textiles for wireless powered disposable sensing devices. 
@@ -43,10 +45,14 @@ A 2015 Goldman Sachs report indicated that healthcare IoT devices "can save the 
 ### Transportaion Systems
 The IoT can assist in the integration of communications, control, and information processing across various transport modes such as passenger vehicles, public transit, freight transport, pedestrian systems and other land transportation.
 
+![transport.jpg]({{site.baseurl}}/images/transport.jpg)
+
 When it comes to passenger vehicles and public transit we see more and more new models being produced with an increasing number of built-in IoT features. These features are also developed for use outside of passenger vehicles such as for managing traffic flow in urban environments.
 
 ### Military Systems
-The military's battlefield is not only physical anymore. The internet of things (IoMT) is transforming the way that business and warfare take place. The military has been one of the first to understand these changes, and has adopted IoT technologies in the field for decades.
+The military's battlefield is not only physical anymore. The internet of military things (IoMT) is transforming the way that business and warfare take place. The military has been one of the first to understand these changes, and has adopted IoT technologies in the field for decades.
+
+![imot.jpg]({{site.baseurl}}/images/iomt.jpg)
 
 In this digital age, every soldier is also a sensor, gathering important data about their environment (e.g., the temperature at which their body operates best). This data may in turn be used to help develop more efficient equipment or even new weapons systems that will benefit both soldiers and civilians.
 
@@ -58,6 +64,8 @@ There are many AIoT Devices that we use on daily basis for example Smart Watches
 IoT devices use the internet to communicate, collect, and exchange information about our online activities. Every day, they generate 1 billion GB of data.
 
 By 2025, there’s projected to be 42 billion IoT-connected devices globally. It’s only natural that as these device numbers grow, the swaths of data will too. That’s where AI steps in—lending its learning capabilities to the connectivity of the IoT.
+
+![Final.jpg]({{site.baseurl}}/images/Final.jpg)
 
 The IoT is empowered by three key emerging technologies:
 
