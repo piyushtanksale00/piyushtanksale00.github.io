@@ -1,10 +1,7 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+### So what is IoT?
+We listen to this term more often than anything do. So IoT stands for the internet of things. So basically you take daily usage things add some PCBs and code to them and that's your smart object. For example, we have Smart lights, Smart speakers like Google Home or Amazon Alexa. These devices seem to have got pretty much connected to us than we think.
