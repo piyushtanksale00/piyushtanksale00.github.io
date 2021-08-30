@@ -45,6 +45,8 @@ A 2015 Goldman Sachs report indicated that healthcare IoT devices "can save the 
 ### Transportaion Systems
 The IoT can assist in the integration of communications, control, and information processing across various transport modes such as passenger vehicles, public transit, freight transport, pedestrian systems and other land transportation.
 
+![transport.jpg]({{site.baseurl}}/images/transport.jpg)
+
 When it comes to passenger vehicles and public transit we see more and more new models being produced with an increasing number of built-in IoT features. These features are also developed for use outside of passenger vehicles such as for managing traffic flow in urban environments.
 
 ### Military Systems
